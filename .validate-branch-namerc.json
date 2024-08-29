@@ -1,0 +1,4 @@
+{
+  "pattern": "^(feat|fix|infra|chore)/.+$",
+  "errorMsg": "分支名称不规范，请使用 feat/*、fix/*、infra/*、chore/* 创建分支，例如 git checkout -b feat/demo"
+}
